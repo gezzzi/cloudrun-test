@@ -1,0 +1,12 @@
+{
+  "name": "cloud-run-api",
+  "version": "1.0.0",
+  "description": "Cloud Run API that returns a success message for /test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
